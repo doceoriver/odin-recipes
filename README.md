@@ -1,0 +1,1 @@
+This is a recipe website I'm creating as a project to showcase the skills I've acquired in HTML through Odin Project. I've learnt how to use command line, install Linux on a VM, use Git and GitHub, what is VSCode and how to use it, and code the basics of a website structure in HTML.
